@@ -3,7 +3,7 @@ name: deploy
 on:
   push:
     branches:
-      - feat/entrega-final
+      - main
 
 jobs:
   deploy:
